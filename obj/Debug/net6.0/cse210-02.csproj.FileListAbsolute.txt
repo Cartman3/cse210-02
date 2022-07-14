@@ -1,0 +1,15 @@
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/cse210-02
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/cse210-02.deps.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/cse210-02.runtimeconfig.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/cse210-02.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/cse210-02.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.csproj.AssemblyReference.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.AssemblyInfoInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.AssemblyInfo.cs
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.csproj.CoreCompileInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/refint/cse210-02.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/cse210-02.genruntimeconfig.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/ref/cse210-02.dll
